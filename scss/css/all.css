@@ -12003,6 +12003,10 @@ p {
   width: 7rem;
 }
 
+.navbar-brand img {
+  border-radius: 35px;
+}
+
 /* modal */
 .modal-footer-register {
   top: -50%;
